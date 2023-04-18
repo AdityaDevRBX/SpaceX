@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../.."
+		},
+		{
+			"path": "../../../../Numbers"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Project Capstone"
+	}
+}
